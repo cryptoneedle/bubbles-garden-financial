@@ -10,6 +10,8 @@ dependencies = []
 dev = [
     "baostock>=0.8.9",
     "pandas>=3.0.1",
+    "pangres>=4.2.1",
     "psycopg2-binary>=2.9.11",
+    "pydantic-settings>=2.13.1",
     "sqlalchemy>=2.0.48",
 ]
